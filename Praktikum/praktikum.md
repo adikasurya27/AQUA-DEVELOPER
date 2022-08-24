@@ -9,6 +9,12 @@ add
 commit
 ![image](https://github.com/adikasurya27/AQUA-DEVELOPER/blob/main/screenshot/gitcommit.png)
 
+push
+![image](https://github.com/adikasurya27/AQUA-DEVELOPER/blob/main/screenshot/gitpush.png)
+
+pull
+![image](https://github.com/adikasurya27/AQUA-DEVELOPER/blob/main/screenshot/gitpull.png)
+
 branch
 ![image](https://github.com/adikasurya27/AQUA-DEVELOPER/blob/main/screenshot/gitbranch.png)
 
